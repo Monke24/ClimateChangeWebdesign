@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>TSA Website Design</title>
+</head>
+<body>
+  <section class="showcase">
+    <header>
+      <h2 class="logo"></h2>
+      <h2>Climate Change</h2>
+    </header>
+    <body>
+      <video
+      src="Y2Mate.is - Renewable Energy HD Stock Video  Free stock footage  Free HD Videos - No Copyright  Channel PMI-UXe-2xGYKGY-720p-1638388670315.mp4"
+      muted
+      loop
+      autoplay
+      >
+      </video>
+    <div class="overlay"></div>
+    <div class="text">
+      <h2>Pollution</h2>
+      <h3>The Effect on animals</h3>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat.
+      </p>
+      <a href="#">Explore</a>
+    </div>
+  </section>
+  <div class="menu">
+    <ul>
+      <li><a href="#">Page 3</a></li>
+      <li><a href="#">Page 2</a></li>
+    </ul>
+    </body>
+    
+</body>
+</html>
